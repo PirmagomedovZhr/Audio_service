@@ -108,10 +108,6 @@ DEBUG=true
 
 ### Быстрый старт
 
-```bash
-git clone https://github.com/<YOUR_USERNAME>/<REPO_NAME>.git
-cd <REPO_NAME>
-```
 
 Создайте `.env` (пример выше) и запустите приложение:
 
